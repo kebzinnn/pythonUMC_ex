@@ -1,4 +1,3 @@
-#
 '''
 def obternota(nomenota):
 
