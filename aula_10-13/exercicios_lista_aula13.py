@@ -89,7 +89,7 @@ lista2.sort()
 print(lista2)
 print(f"números pares: {pares}")
 print(f"números impares: {impares}")
-'''
+
 
 # 4) Elaborar um programa para uma loja que possui uma lista contendo a quantidade
 # de itens em estoque para diversos produtos. Crie um programa que o usuário deva
@@ -129,24 +129,30 @@ print("critico: ", critico)
 print("baixo: ", baixo)
 print("normal:", normal)
 
-
-        
-
-
-
-
-
-
-
-
-
-
-
+'''
 
 # 5) Elaborar um programa que considere duas listas: uma com nomes de usuários e outra com
 # suas respectivas senhas. Desenvolva um programa que solicite ao usuário login e senha. O
 # programa deve permitir no máximo 3 tentativas. Informe se o acesso foi concedido ou se a
 # conta foi bloqueada após as tentativas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 6) Elaborar um programa que dada uma lista com pontuações de jogadores, crie um
 # programa que remova valores duplicados, ordene as pontuações em ordem decrescente,
