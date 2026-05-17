@@ -11,8 +11,8 @@ while True:
     if num == 0: 
         break
 
-    contador += 1
-    soma += num
+    contador += 1 # contador = contador + 1
+    soma += num #soma = soma + num
 
 if contador > 0:
     media = soma / contador

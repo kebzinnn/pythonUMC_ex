@@ -1,4 +1,4 @@
-'''
+
 lista = [1, -2, -37, 23, 11, 2, 5, 4, 6, 6, 7, 8]
 
 lista.sort()
@@ -36,7 +36,7 @@ print(array)
 x = array.pop(0)
 print(x)
 print(array)
-'''
+
 
 #texto = "www.eupoderiaterestudadomais.com"
 
