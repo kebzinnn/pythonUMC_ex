@@ -1,3 +1,4 @@
+'''
 # Exercícios Lista - aula 13
 
 # 1) Elaborar um programa que contenha uma lista com 16 elementos em que o usuário
@@ -262,11 +263,6 @@ for num in lista:
 print(f"numeros primos: {primosl}, {len(primosl)}x")
 
 
-lista = []
-
-for i in range(20):
-
-
 # 9) Elaborar um programa que contém uma lista com 15 elementos. Essa lista deve
 # ser preenchida pelo usuário, porém não deve conter valores repetidos. Exibir
 # no final a lista.
@@ -293,3 +289,4 @@ while len(lista) < 15:
         
 
 print(lista)
+'''
